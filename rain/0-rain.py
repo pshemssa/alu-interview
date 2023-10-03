@@ -42,4 +42,3 @@ def rain(walls):
             output = 7
 
     return output
-  
