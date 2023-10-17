@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"function to generate pascal's triangle of 'n' rows"
+"""function to generate pascal's triangle of 'n' rows"""
 
 def pascal_triangle(n):
     if n <= 0:
